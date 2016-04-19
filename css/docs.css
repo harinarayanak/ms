@@ -83,3 +83,32 @@ body {
 .metro-title{
     margin-bottom: 40px !important;
 }
+.player-icon{
+	position: absolute;
+	bottom: 45%;
+	z-index: 1026 !important;
+	display: inline-block;
+	width: inherit;
+	text-align:center;
+	background: transparent;
+	border: 0px solid lightgray;
+}
+
+.player-icon img{
+	width:70px;
+}
+
+.player-icon2{
+	position: absolute;
+	bottom: 42%;
+	z-index: 1026 !important;
+	display: inline-block;
+	width: inherit;
+	text-align:center;
+	background: transparent;
+	border: 0px solid lightgray;
+}
+
+.player-icon2 img{
+	width:70px;
+}
